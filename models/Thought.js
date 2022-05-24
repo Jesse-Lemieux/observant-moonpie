@@ -1,6 +1,6 @@
 const { Schema, model, Types } = require('mongoose');
 const dateFormat = require('../utils/dateFormat')
-
+//reaction schema to be pushed into thoughts 'reactions' array
 const ReactionSchema = new Schema (
     {
         reactionId: {
