@@ -50,6 +50,7 @@ const userController = {
           .catch(err => res.json(err));
       },
 
+      //add a user id to friends array of selected user
       addFriend({params, body}, res) {
         User.findOneAndUpdate(
           {_id: params.id},
@@ -66,6 +67,7 @@ const userController = {
         .catch(err => res.json(err));
       },
 
+      //remove a user id from friends array of selected user
       removeFriend({ params }, res) {
         User.findOneAndUpdate(
           { _id: params.id },

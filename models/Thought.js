@@ -51,6 +51,7 @@ const ThoughtSchema = new Schema(
         id:false
     }
 )
+//virtual to count reactions in reactions array of parent thought
 ThoughtSchema.virtual('reactionCount').get(function(){
     return this.reactions.length
 })
