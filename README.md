@@ -22,7 +22,7 @@ which you can find [here](https://mongoosejs.com/). You will then need express f
 
 To begin, open your terminal within the root directory, or if you're using VS code, open an integrated terminal.
 You then type "npm start" on the command line to begin. 
-Please watch this [short walk-through video](https://www.youtube.com/watch?v=91rG7Wtmg94) to see the entire app functionality.
+Please watch this [short walk-through video](https://youtu.be/9xksWMxrCIM) to see the entire app functionality.
 
 
 ## Credits
