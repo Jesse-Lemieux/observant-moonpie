@@ -31,4 +31,4 @@ Please watch this [short walk-through video](https://www.youtube.com/watch?v=91r
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/#).) to see the entire app functionality.
+[MIT](https://choosealicense.com/licenses/mit/#)
